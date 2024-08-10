@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/ifedolapo-fagbamigbe-0a4981248/">Cybersecurity Professional</a>
+<h1>Hi, I'm Ifedolapo! <br/><a href="https://www.linkedin.com/in/ifedolapo-fagbamigbe-0a4981248/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -10,7 +10,7 @@
 
   - [Google Cybersecurity Certificate](https://coursera.org/share/3ee098e85c41d92a806a8f3d8723485c)
   - [CompTIA Security+ ce Certification](https://www.credly.com/badges/8d67ba5d-c526-4b6a-ae58-dfca0fb06f02/linked_in_profile)
-  - [Google Cybersecurity Certificate](https://coursera.org/share/3ee098e85c41d92a806a8f3d8723485c)
+  - [ISC2 Certified in Cybersecurity (CC)](https://coursera.org/share/3ee098e85c41d92a806a8f3d8723485c)
   - [ISC2 Candidate](https://www.credly.com/badges/9a0168ee-e929-4b0d-8678-03eee569ef72/linked_in_profile)
 
 
