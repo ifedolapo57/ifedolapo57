@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Mastercard Cybersecurity virtual experience](https://github.com/ifedolapo57/ghsg)
+  - [Mastercard Cybersecurity virtual experience](https://github.com/ifedolapo57/Mastercard-Cybersecurity-virtual-experience/tree/main)
   - [AIG Shields Up: Cybersecurity virtual experience](https://github.com/ifedolapo57/ghsg)
   - [ANZ Australia Cyber Security Management Job Simulation](https://github.com/ifedolapo57/ghsg)
 
